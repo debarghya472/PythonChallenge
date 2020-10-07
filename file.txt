@@ -1,0 +1,2 @@
+Python has the least code complexcity.
+the python is has a lot of platform independency.
